@@ -2,7 +2,13 @@
 
 This repository contains all the design files of a novel RCM (Remote Center of Motion) mechanism for minimally invasive surgery. The mechanism enforces the RCM constraint mechanically (design‑based approach), reducing reliance on complex software, improving patient safety, and lowering manufacturing costs.
 
+<div style="display: flex; gap: 10px;">
+  <img src="Photos\Renderings\Rendering 3DOF RCM.png" alt="3 DOF RCM prototype" width="315">
+  <img src="Photos\Prototype\Experimental setup for error analysis.JPG" alt="Error analysis setup" width="315">
+</div>
+
 ## Repository Structure
+
 ```
 ├── CAD
 │ ├── Fusion 360                        # Main design file (Autodesk Fusion 360)
@@ -19,20 +25,16 @@ This repository contains all the design files of a novel RCM (Remote Center of M
 ## Key Features
 
 - **Design‑based RCM** – No iterative numerical IK solvers needed.
-- **Low‑cost & simple** – Standard revolute joints and rigid links.
+- **Low‑cost & simple** – Standard revolute joints and rigid links. 3 actuators and easy control.
 - **Lightweight & compact** – Suitable for portable/handheld surgical robots.
 - **Upgradable** – Can be extended to variable‑radius RCM with one extra actuator.
 
 ## Usage
 
 1. **3D printing** – Use the STL files in `CAD/STL/prototype` for a physical prototype.
-2. **Error analysis** – The `laser error analysis stl files` are designed for optical measurement setups.
+2. **Error analysis** – The `CAD/STL/laser error analysis stl files` are designed for error measurement setups.
 3. **Documentation** – See `Photos/Geometry/` for kinematic definitions and model.
 
 ## Citation
 
-If you use this design in your research, please cite the accompanying paper (to be added).
-
-## License
-
-[Specify your license, e.g., MIT, CC‑BY‑NC, or “All rights reserved”]
+If you use this design in your research, please consider citing the accompanying paper (to be added).
