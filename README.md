@@ -2,10 +2,10 @@
 
 This repository contains all the design files of a novel RCM (Remote Center of Motion) mechanism for minimally invasive surgery. The mechanism enforces the RCM constraint mechanically (design‑based approach), reducing reliance on complex software, improving patient safety, and lowering manufacturing costs.
 
-<div style="display: flex; gap: 10px;">
+<!-- <div style="display: flex; gap: 10px;">
   <img src="Photos\Renderings\Rendering 3DOF RCM.png" alt="3 DOF RCM prototype" width="350">
   <img src="Photos\Prototype\Experimental setup for error analysis.JPG" alt="Error analysis setup" width="350">
-</div>
+</div> -->
 
 ## Repository Structure
 
