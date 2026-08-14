@@ -8,17 +8,22 @@ This repository contains all the design files of a novel RCM (Remote Center of M
 
 ## Repository Structure
 
+  <div style="display: flex; gap: 10px;">
+  <vid src="Description\Mechanism Demo.mp4" alt="3 DOF RCM prototype" width="350">
+
+## Repository Structure
+
 ```
 ├── CAD
 │ ├── Fusion 360    # Main design file (Autodesk Fusion 360)
 │ └── STL
 │  ├── laser error analysis stl files   # STLs for error analysis design
 │  └── prototype                        # STLs for 3DOF design
+├── Description
 ├── Photos
 │ ├── Geometry      # Angle definitions and geometric model (PDF)
 │ ├── Prototype     # Photos of the assembled mechanism and experimental setup
 │ └── Renderings    # 3D renderings of the RCM mechanism
-├── Description
 └── README.md
 ```
 
@@ -38,4 +43,16 @@ This repository contains all the design files of a novel RCM (Remote Center of M
 
 ## Citation
 
-If you use this design in your research, please consider citing the accompanying paper (to be added).
+If you use this design in your research, please consider citing the accompanying paper:
+
+```bibtex
+(to be added)
+}
+```
+
+<!-- @misc{Soghomonyan_Pan_2026_quadruped,
+  author       = {Hayk Soghomonyan and Siqi Pan},
+  title        = {Learning-Based Quadruped Locomotion via NVIDIA Isaac Lab and Proximal Policy Optimization},
+  institution  = {Zhejiang University, ECE 489 / ME 446},
+  year         = {2026},
+  howpublished = {\url{https://github.com/H-Sogh/ZJU_ECE489_final_project-Learning-Based_RL_Locomotion_Policy.git}}, -->
