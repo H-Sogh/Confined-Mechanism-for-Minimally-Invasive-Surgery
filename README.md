@@ -9,7 +9,10 @@ This repository contains all the design files of a novel RCM (Remote Center of M
 ## Demo
 
   <div style="display: flex; gap: 10px;">
-  <img src="Description\Mechanism Demo.mp4" alt="3 DOF RCM prototype" width="350">
+  <video width="640" height="360" controls>
+    <source src="https://github.com/H-Sogh/Confined-Mechanism-for-Minimally-Invasive-Surgery/blob/main/Description/Mechanism%20Demo.mp4" type="video/mp4">
+    Your browser does not support the video tag
+  </video>
 
 ## Repository Structure
 
@@ -47,7 +50,6 @@ If you use this design in your research, please consider citing the accompanying
 
 ```bibtex
 (to be added)
-}
 ```
 
 <!-- @misc{Soghomonyan_Pan_2026_quadruped,
@@ -55,4 +57,5 @@ If you use this design in your research, please consider citing the accompanying
   title        = {Learning-Based Quadruped Locomotion via NVIDIA Isaac Lab and Proximal Policy Optimization},
   institution  = {Zhejiang University, ECE 489 / ME 446},
   year         = {2026},
-  howpublished = {\url{https://github.com/H-Sogh/ZJU_ECE489_final_project-Learning-Based_RL_Locomotion_Policy.git}}, -->
+  howpublished = {\url{https://github.com/H-Sogh/ZJU_ECE489_final_project-Learning-Based_RL_Locomotion_Policy.git}},
+  } -->
