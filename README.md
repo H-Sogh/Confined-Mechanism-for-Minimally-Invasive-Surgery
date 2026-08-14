@@ -10,7 +10,7 @@ This repository contains all the design files of a novel RCM (Remote Center of M
 
   <div style="display: flex; gap: 10px;">
   <video width="640" height="360" controls>
-    <source src="Description/Mechanism Demo.mp4" type="video/mp4">
+    <source src="https://github.com/H-Sogh/Confined-Mechanism-for-Minimally-Invasive-Surgery/raw/refs/heads/main/Description/Mechanism%20Demo.mp4" type="video/mp4">
     Your browser does not support the video tag
   </video>
 
