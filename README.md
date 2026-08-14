@@ -18,6 +18,7 @@ This repository contains all the design files of a novel RCM (Remote Center of M
 │ ├── Geometry      # Angle definitions and geometric model (PDF)
 │ ├── Prototype     # Photos of the assembled mechanism and experimental setup
 │ └── Renderings    # 3D renderings of the RCM mechanism
+├── Description
 └── README.md
 ```
 
@@ -33,7 +34,7 @@ This repository contains all the design files of a novel RCM (Remote Center of M
 1. **3D printable 3-DOF prototype** – Use the STL files in `CAD/STL/prototype` for a physical prototype.
 2. **3D printable error analysis mechanism** – The `CAD/STL/laser error analysis stl files` are designed for error measurement setups.
 3. **Editable 3D models** - Check the Fusion 360 archive file at `CAD/Fusion360/Prototypes of Confined Mechanism for Minimally Invasive Surgery.f3z`
-4. **Documentation** – See `Photos/Geometry/` for kinematic definitions and model.
+4. **Documentation** – See `Description/`, `Photos/Geometry/` for kinematic definitions and model.
 
 ## Citation
 
