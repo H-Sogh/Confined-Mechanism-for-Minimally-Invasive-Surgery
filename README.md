@@ -6,10 +6,10 @@ This repository contains all the design files of a novel RCM (Remote Center of M
   <img src="Photos\Renderings\Rendering 3DOF RCM.png" alt="3 DOF RCM prototype" width="350">
   <img src="Photos\Prototype\Experimental setup for error analysis.JPG" alt="Error analysis setup" width="350">
 
-## Repository Structure
+## Demo
 
   <div style="display: flex; gap: 10px;">
-  <vid src="Description\Mechanism Demo.mp4" alt="3 DOF RCM prototype" width="350">
+  <img src="Description\Mechanism Demo.mp4" alt="3 DOF RCM prototype" width="350">
 
 ## Repository Structure
 
