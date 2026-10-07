@@ -1,6 +1,6 @@
 # Confined Mechanism for Minimally Invasive Surgery
 
-This repository contains all the design files of a novel RCM (Remote Center of Motion) mechanism for minimally invasive surgery. The mechanism enforces the RCM constraint mechanically (design‑based approach), reducing reliance on complex software, improving patient safety, and lowering manufacturing costs. The corresponding paper can is [![Mechanism Design and Kinematic Analysis of a Confined Mechanism for Minimally Invasive Surgery](https://img.shields.io/badge/Button_Text-Color?style=for-the-badge)](https://your-link.com) (check `Citation` section below).
+This repository contains all the design files of a novel RCM (Remote Center of Motion) mechanism for minimally invasive surgery. The mechanism enforces the RCM constraint mechanically (design‑based approach), reducing reliance on complex software, improving patient safety, and lowering manufacturing costs. The corresponding paper can be found at [Mechanism Design and Kinematic Analysis of a Confined Mechanism for Minimally Invasive Surgery](`https://badgen.net/badge/Download/green?icon=github`).
 
   <div style="display: flex; gap: 10px;">
   <img src="Photos\Renderings\Rendering 3DOF RCM.png" alt="3 DOF RCM prototype" width="350">
@@ -52,10 +52,13 @@ If you use this design in your research, please consider citing the accompanying
 (to be added)
 ```
 
-<!-- @misc{Soghomonyan_Pan_2026_quadruped,
-  author       = {Hayk Soghomonyan and Siqi Pan},
-  title        = {Learning-Based Quadruped Locomotion via NVIDIA Isaac Lab and Proximal Policy Optimization},
-  institution  = {Zhejiang University, ECE 489 / ME 446},
-  year         = {2026},
-  howpublished = {\url{https://github.com/H-Sogh/ZJU_ECE489_final_project-Learning-Based_RL_Locomotion_Policy.git}},
-  } -->
+<!-- @INPROCEEDINGS{11704294,
+  author={Soghomonyan, Hayk and Gunawan, Ferrell Xavier and Marpaung, Nico S P and Yang, Liangjing},
+  booktitle={2026 IEEE 22nd International Conference on Automation Science and Engineering (CASE)}, 
+  title={Mechanism Design and Kinematic Analysis of a Confined Mechanism for Minimally Invasive Surgery}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={592-597},
+  keywords={Motors;Kinematics;Design methodology;Joining processes;Joints;Modeling;Printing;Three-dimensional displays;Tools;Medical robotics;Remote Center of Motion (RCM);Minimally Invasive Surgery (MIS);Robotic end effectors;Constrained Mechanisms;Compliant Mechanisms;Geometric Linkages;Surgical Robotics},
+  doi={10.1109/CASE69030.2026.11704294}} -->
