@@ -49,10 +49,7 @@ This repository contains all the design files of a novel RCM (Remote Center of M
 If you use this design in your research, please consider citing the accompanying paper:
 
 ```bibtex
-(to be added)
-```
-
-<!-- @INPROCEEDINGS{11704294,
+  @INPROCEEDINGS{11704294,
   author={Soghomonyan, Hayk and Gunawan, Ferrell Xavier and Marpaung, Nico S P and Yang, Liangjing},
   booktitle={2026 IEEE 22nd International Conference on Automation Science and Engineering (CASE)}, 
   title={Mechanism Design and Kinematic Analysis of a Confined Mechanism for Minimally Invasive Surgery}, 
@@ -61,4 +58,5 @@ If you use this design in your research, please consider citing the accompanying
   number={},
   pages={592-597},
   keywords={Motors;Kinematics;Design methodology;Joining processes;Joints;Modeling;Printing;Three-dimensional displays;Tools;Medical robotics;Remote Center of Motion (RCM);Minimally Invasive Surgery (MIS);Robotic end effectors;Constrained Mechanisms;Compliant Mechanisms;Geometric Linkages;Surgical Robotics},
-  doi={10.1109/CASE69030.2026.11704294}} -->
+  doi={10.1109/CASE69030.2026.11704294}}
+  ```
