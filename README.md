@@ -1,6 +1,6 @@
 # Confined Mechanism for Minimally Invasive Surgery
 
-This repository contains all the design files of a novel RCM (Remote Center of Motion) mechanism for minimally invasive surgery. The mechanism enforces the RCM constraint mechanically (design‑based approach), reducing reliance on complex software, improving patient safety, and lowering manufacturing costs. The corresponding paper can be found at [Mechanism Design and Kinematic Analysis of a Confined Mechanism for Minimally Invasive Surgery](`https://badgen.net/badge/Download/green?icon=github`).
+This repository contains all the design files of a novel RCM (Remote Center of Motion) mechanism for minimally invasive surgery. The mechanism enforces the RCM constraint mechanically (design‑based approach), reducing reliance on complex software, improving patient safety, and lowering manufacturing costs. The corresponding paper can be found at [Mechanism Design and Kinematic Analysis of a Confined Mechanism for Minimally Invasive Surgery](https://badgen.net/badge/Download/green?icon=github).
 
   <div style="display: flex; gap: 10px;">
   <img src="Photos\Renderings\Rendering 3DOF RCM.png" alt="3 DOF RCM prototype" width="350">
